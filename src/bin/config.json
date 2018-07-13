@@ -1,0 +1,23 @@
+{
+  "semaphoreId": "0",
+  "crossroadsId": "0",
+  "position": {
+    "latitude": 0,
+    "longitude": 0
+  },
+  "greenDuration": 0,
+  "lightBulbs": [
+    {
+      "color": 0,
+      "status": 0
+    },
+    {
+      "color": 1,
+      "status": 0
+    },
+    {
+      "color": 2,
+      "status": 0
+    }
+  ]
+}
